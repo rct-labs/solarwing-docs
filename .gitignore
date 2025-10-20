@@ -1,0 +1,12 @@
+# Ignore internal and temporary directories
+_internal/
+.claude/
+
+# Ignore scripts
+*.js
+*.cjs
+*.mjs
+*.py
+
+# Ignore logs
+*.log
